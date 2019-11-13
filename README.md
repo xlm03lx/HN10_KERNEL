@@ -1,12 +1,19 @@
 # HUAWEI HONOR NOTE 10 KERNEL 
 
+
+[CENTER]
+[img]https://i.imgur.com/0L8jzm3.png[/img]
+[/CENTER]
+
+
 Ravel-AL09 HN10_KERNEL
-- base on EMUI 8
+- base on EMUI8 linux kernel 4.4.103 
 - fork from CodeOpenSource_huawei_emui8.2
 
 
 FEATURES
 --------
+- UPSTREAM && PATCH linux kernel form 4.4.103 to final stable 4.4.198 
 - Compiled with UBER-TC 4.9(ARMv8,A53 Optimized)
 - Optimize build for big.LITTLE
 - Full Rebase of EAS to AOSP
@@ -17,16 +24,49 @@ FEATURES
 - GPU_SCENE_AWARE tweaking 
 - ZEN additional I/O Schedulers
 - Aggressive GPU Suspend on Low Frequencies
-- Swap and zRam disabled
+- SWAP and zRAM disabled
 - NTFS R/W Support
-- Reduced Kernel Wakelock Sources by 90% in relation to Stock
+- Reduced Kernel WAKELOCK Sources by 90% in relation to Stock
 - Advanced TCP Algorithms with WESTWOOD Default
 - Huawei's Analytics Engine disabled
 - D.U.B.A.I force disable && make it useless
 - FRANDOM support
-- Wireguard VPN Support
-- Lazyplug For HMP
+- WIREGUARD VPN Support
+- LAZYPLUG For HMP
 - FORCE FAST CHARGE Enable
 - BOEFFLA_WL_BLOCKER implemented
 - QUICK THAW FINGERPRINTD 1+ responsived
 - SIMPLE LMK better ram management
+- disable KSM/UKSM
+
+REQUIREMENTS
+----------------------
+- UNLOCK BOOTLOADER
+- TWRP_Decrytped installed
+- Rooted / EMUI 8 FIRMWARE
+- SD Card
+
+WORKING TESTED
+--------------------
+- EMUI8 rom
+- aosp pie base vendor emui8
+- treble gsi rom
+
+APPS FOR TWEAKING
+--------------------
+- spectrum
+- kernel auditor pro
+- ex kernel manager
+
+VERSION INFORMATION
+-----------------------
+foe.kernel-RC3-STABLE 
+Status: Stable
+Current Stable Version: RC3
+Stable Release Date: 2019-NOV-13
+
+CONTRIBUTORS
+--------------------------
+fanthaghiro foe
+duke_ghaf
+- 
