@@ -1,9 +1,7 @@
 # HUAWEI HONOR NOTE 10 KERNEL 
 
 
-[CENTER]
-[img]https://i.imgur.com/0L8jzm3.png[/img]
-[/CENTER]
+![alt text](https://i.imgur.com/0L8jzm3.png</img)
 
 
 Ravel-AL09 HN10_KERNEL
@@ -60,13 +58,13 @@ APPS FOR TWEAKING
 
 VERSION INFORMATION
 -----------------------
-foe.kernel-RC3-STABLE 
-Status: Stable
-Current Stable Version: RC3
-Stable Release Date: 2019-NOV-13
+- foe.kernel-RC3-STABLE 
+- Status: Stable
+- Current Stable Version: RC3
+- Stable Release Date: 2019-NOV-13
 
 CONTRIBUTORS
 --------------------------
-fanthaghiro foe
-duke_ghaf
+-fanthaghiro foe
+-duke_ghaf
 - 
