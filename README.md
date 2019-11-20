@@ -22,7 +22,7 @@ FEATURES
 - GPU_SCENE_AWARE tweaking 
 - ZEN additional I/O Schedulers
 - Aggressive GPU Suspend on Low Frequencies
-- SWAP and zRAM disabled
+- SWAP and zRAM enable
 - NTFS R/W Support
 - Reduced Kernel WAKELOCK Sources by 90% in relation to Stock
 - Advanced TCP Algorithms with WESTWOOD Default
